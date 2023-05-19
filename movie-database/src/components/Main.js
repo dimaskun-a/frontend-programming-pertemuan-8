@@ -9,7 +9,7 @@ function Main() {
     <div>
       <main>
         <Hello name="sinka" />
-        <Hello name="naomi" />
+        <Hello name="gree" />
         <Hello name="shani" />
         <Hello name="melody" />
         <Hello name="zee" />
