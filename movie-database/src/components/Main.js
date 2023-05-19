@@ -8,11 +8,11 @@ function Main() {
   return (
     <div>
       <main>
-        <Hello name="Fathimah" />
-        <Hello name="Fatchan" />
-        <Hello name="Wanandi" />
-        <Hello name="Elbit" />
-        <Hello name="Angga" />
+        <Hello name="sinka" />
+        <Hello name="naomi" />
+        <Hello name="shani" />
+        <Hello name="melody" />
+        <Hello name="zee" />
       </main>
     </div>
   );
